@@ -1,12 +1,10 @@
 package principle.singleResponsibility;
 
 /**
- * 单一职责原则
- *
  * @author Chenyang
- * @create 2021-07-14-14:50
+ * @create 2021-07-14-15:31
  */
-public class SingleResponsibility1 {
+public class SingleResponsibility {
 
     public static void main(String[] args) {
         Vehicle car = new Vehicle();
