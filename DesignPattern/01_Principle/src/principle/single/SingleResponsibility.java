@@ -1,4 +1,4 @@
-package principle.singleResponsibility;
+package principle.single;
 
 /**
  * @author Chenyang
