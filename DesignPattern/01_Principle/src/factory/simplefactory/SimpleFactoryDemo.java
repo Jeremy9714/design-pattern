@@ -1,4 +1,4 @@
-package Factory.simplefactory;
+package factory.simplefactory;
 
 import java.io.*;
 
